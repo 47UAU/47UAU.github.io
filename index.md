@@ -2,5 +2,5 @@
 The Tramp is a good guy, lives in the industrialisation area, wears buggy pants and knows how the behave. 
 
 ## Character traits
-walks strangely, wears secondhand clothes, has seen better days
+Walks strangely, wears secondhand clothes, has seen better days.
 
